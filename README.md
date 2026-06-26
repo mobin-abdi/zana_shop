@@ -55,6 +55,11 @@ flutter run
 
 **if you run it on emulator set httpClien with http://10.0.2.2:8000**
 
+<<<<<<< HEAD
+=======
+**you can see the api document in localhost:8000/api/docs**
+
+>>>>>>> cc99d17f00d42ae048cfc4bcb22cc94d64d98fd8
 ## 👨‍💻 About
 
 **Developed by Mobein Abdi. This project reflects a passion for building robust software systems and implementing scalable mobile-backend architectures.**
